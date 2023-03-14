@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mertcankurt
 - 👀 I’m interested in full stack web development, socket communications etc. 
-- 🌱 I’m currently learning gstreamer, javascript, react
+- 🌱 I have experience with React, Javascript, Typescript, Python, Flask, Postgresql, MySQL etc. 
 - 📫 You can reach me wia email kurt.mertcn@gmail.com
 
 <!---
