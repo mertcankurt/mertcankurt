@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mertcankurt
+- 👋 Hi, I’m Mertcan
 - 👀 I’m interested in full stack web development, socket communications etc. 
 - 🌱 I have experience with React, Javascript, Typescript, Python, Flask, Postgresql, MySQL etc. 
 - 📫 You can reach me wia email kurt.mertcn@gmail.com
